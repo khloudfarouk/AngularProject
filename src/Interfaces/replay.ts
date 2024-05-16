@@ -6,5 +6,5 @@ export interface Replay {
     postId: number;
     userId: string;
     img:string;
-    username:string;
+    userName:string;
   }
